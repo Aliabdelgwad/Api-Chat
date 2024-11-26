@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\YAR\\Desktop\\Dynmics_Chat_2024-11-22\\Dynmics_Ch\\Dynmics_AppChat\\Chat_App\\ApiChat\\Api_Chat\\Api_Chat.csproj": {}
+    "C:\\Users\\YAR\\Desktop\\ApiChat\\Api_Chat\\Api_Chat.csproj": {}
   },
   "projects": {
-    "C:\\Users\\YAR\\Desktop\\Dynmics_Chat_2024-11-22\\Dynmics_Ch\\Dynmics_AppChat\\Chat_App\\ApiChat\\Api_Chat\\Api_Chat.csproj": {
+    "C:\\Users\\YAR\\Desktop\\ApiChat\\Api_Chat\\Api_Chat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\YAR\\Desktop\\Dynmics_Chat_2024-11-22\\Dynmics_Ch\\Dynmics_AppChat\\Chat_App\\ApiChat\\Api_Chat\\Api_Chat.csproj",
+        "projectUniqueName": "C:\\Users\\YAR\\Desktop\\ApiChat\\Api_Chat\\Api_Chat.csproj",
         "projectName": "Api_Chat",
-        "projectPath": "C:\\Users\\YAR\\Desktop\\Dynmics_Chat_2024-11-22\\Dynmics_Ch\\Dynmics_AppChat\\Chat_App\\ApiChat\\Api_Chat\\Api_Chat.csproj",
+        "projectPath": "C:\\Users\\YAR\\Desktop\\ApiChat\\Api_Chat\\Api_Chat.csproj",
         "packagesPath": "C:\\Users\\YAR\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\YAR\\Desktop\\Dynmics_Chat_2024-11-22\\Dynmics_Ch\\Dynmics_AppChat\\Chat_App\\ApiChat\\Api_Chat\\obj\\",
+        "outputPath": "C:\\Users\\YAR\\Desktop\\ApiChat\\Api_Chat\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\YAR\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\YAR\\Desktop\\Dynmics_Chat_2024-11-22\\Dynmics_Ch\\Dynmics_AppChat\\Chat_App\\ApiChat\\ChatAPIBusinessLayer\\ChatAPIBusinessLayer.csproj": {
-                "projectPath": "C:\\Users\\YAR\\Desktop\\Dynmics_Chat_2024-11-22\\Dynmics_Ch\\Dynmics_AppChat\\Chat_App\\ApiChat\\ChatAPIBusinessLayer\\ChatAPIBusinessLayer.csproj"
+              "C:\\Users\\YAR\\Desktop\\ApiChat\\ChatAPIBusinessLayer\\ChatAPIBusinessLayer.csproj": {
+                "projectPath": "C:\\Users\\YAR\\Desktop\\ApiChat\\ChatAPIBusinessLayer\\ChatAPIBusinessLayer.csproj"
               }
             }
           }
@@ -82,16 +82,16 @@
         }
       }
     },
-    "C:\\Users\\YAR\\Desktop\\Dynmics_Chat_2024-11-22\\Dynmics_Ch\\Dynmics_AppChat\\Chat_App\\ApiChat\\ChatAPIBusinessLayer\\ChatAPIBusinessLayer.csproj": {
+    "C:\\Users\\YAR\\Desktop\\ApiChat\\ChatAPIBusinessLayer\\ChatAPIBusinessLayer.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\YAR\\Desktop\\Dynmics_Chat_2024-11-22\\Dynmics_Ch\\Dynmics_AppChat\\Chat_App\\ApiChat\\ChatAPIBusinessLayer\\ChatAPIBusinessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\YAR\\Desktop\\ApiChat\\ChatAPIBusinessLayer\\ChatAPIBusinessLayer.csproj",
         "projectName": "ChatAPIBusinessLayer",
-        "projectPath": "C:\\Users\\YAR\\Desktop\\Dynmics_Chat_2024-11-22\\Dynmics_Ch\\Dynmics_AppChat\\Chat_App\\ApiChat\\ChatAPIBusinessLayer\\ChatAPIBusinessLayer.csproj",
+        "projectPath": "C:\\Users\\YAR\\Desktop\\ApiChat\\ChatAPIBusinessLayer\\ChatAPIBusinessLayer.csproj",
         "frameworks": {
           "net48": {
             "projectReferences": {
-              "C:\\Users\\YAR\\Desktop\\Dynmics_Chat_2024-11-22\\Dynmics_Ch\\Dynmics_AppChat\\Chat_App\\ApiChat\\ChatDataAccessLayer\\ChatDataAccessLayer.csproj": {
-                "projectPath": "C:\\Users\\YAR\\Desktop\\Dynmics_Chat_2024-11-22\\Dynmics_Ch\\Dynmics_AppChat\\Chat_App\\ApiChat\\ChatDataAccessLayer\\ChatDataAccessLayer.csproj"
+              "C:\\Users\\YAR\\Desktop\\ApiChat\\ChatDataAccessLayer\\ChatDataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\YAR\\Desktop\\ApiChat\\ChatDataAccessLayer\\ChatDataAccessLayer.csproj"
               }
             }
           }
@@ -101,11 +101,11 @@
         "net48": {}
       }
     },
-    "C:\\Users\\YAR\\Desktop\\Dynmics_Chat_2024-11-22\\Dynmics_Ch\\Dynmics_AppChat\\Chat_App\\ApiChat\\ChatDataAccessLayer\\ChatDataAccessLayer.csproj": {
+    "C:\\Users\\YAR\\Desktop\\ApiChat\\ChatDataAccessLayer\\ChatDataAccessLayer.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\YAR\\Desktop\\Dynmics_Chat_2024-11-22\\Dynmics_Ch\\Dynmics_AppChat\\Chat_App\\ApiChat\\ChatDataAccessLayer\\ChatDataAccessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\YAR\\Desktop\\ApiChat\\ChatDataAccessLayer\\ChatDataAccessLayer.csproj",
         "projectName": "ChatDataAccessLayer",
-        "projectPath": "C:\\Users\\YAR\\Desktop\\Dynmics_Chat_2024-11-22\\Dynmics_Ch\\Dynmics_AppChat\\Chat_App\\ApiChat\\ChatDataAccessLayer\\ChatDataAccessLayer.csproj",
+        "projectPath": "C:\\Users\\YAR\\Desktop\\ApiChat\\ChatDataAccessLayer\\ChatDataAccessLayer.csproj",
         "frameworks": {
           "net48": {
             "projectReferences": {}
