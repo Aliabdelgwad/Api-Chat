@@ -1,0 +1,45 @@
+C:\Users\YAR\Desktop\Chat_App\ApiChat\ChatDataAccessLayer\obj\Debug\ChatDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\YAR\Desktop\Chat_App\ApiChat\ChatDataAccessLayer\obj\Debug\ChatDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\YAR\Desktop\Chat_App\ApiChat\ChatDataAccessLayer\bin\Debug\ChatDataAccessLayer.dll
+C:\Users\YAR\Desktop\Chat_App\ApiChat\ChatDataAccessLayer\bin\Debug\ChatDataAccessLayer.pdb
+C:\Users\YAR\Desktop\Chat_App\ApiChat\ChatDataAccessLayer\obj\Debug\ChatDataAccessLayer.dll
+C:\Users\YAR\Desktop\Chat_App\ApiChat\ChatDataAccessLayer\obj\Debug\ChatDataAccessLayer.pdb
+C:\Users\YAR\Desktop\Chat_App\ApiChat\ChatDataAccessLayer\bin\Debug\System.Data.SqlClient.dll
+C:\Users\YAR\Desktop\Chat_App\ApiChat\ChatDataAccessLayer\bin\Debug\System.Data.SqlClient.xml
+C:\Users\YAR\Desktop\Chat_App\ApiChat\ChatDataAccessLayer\obj\Debug\ChatData.A6774211.Up2Date
+C:\Users\YAR\Desktop\Dynmics_Chat_2024-11-13\Dynmics_Ch\Dynmics_AppChat\Chat_App\ApiChat\ChatDataAccessLayer\bin\Debug\ChatDataAccessLayer.dll
+C:\Users\YAR\Desktop\Dynmics_Chat_2024-11-13\Dynmics_Ch\Dynmics_AppChat\Chat_App\ApiChat\ChatDataAccessLayer\bin\Debug\ChatDataAccessLayer.pdb
+C:\Users\YAR\Desktop\Dynmics_Chat_2024-11-13\Dynmics_Ch\Dynmics_AppChat\Chat_App\ApiChat\ChatDataAccessLayer\bin\Debug\System.Data.SqlClient.dll
+C:\Users\YAR\Desktop\Dynmics_Chat_2024-11-13\Dynmics_Ch\Dynmics_AppChat\Chat_App\ApiChat\ChatDataAccessLayer\bin\Debug\System.Data.SqlClient.xml
+C:\Users\YAR\Desktop\Dynmics_Chat_2024-11-13\Dynmics_Ch\Dynmics_AppChat\Chat_App\ApiChat\ChatDataAccessLayer\obj\Debug\ChatDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\YAR\Desktop\Dynmics_Chat_2024-11-13\Dynmics_Ch\Dynmics_AppChat\Chat_App\ApiChat\ChatDataAccessLayer\obj\Debug\ChatDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\YAR\Desktop\Dynmics_Chat_2024-11-13\Dynmics_Ch\Dynmics_AppChat\Chat_App\ApiChat\ChatDataAccessLayer\obj\Debug\ChatData.A6774211.Up2Date
+C:\Users\YAR\Desktop\Dynmics_Chat_2024-11-13\Dynmics_Ch\Dynmics_AppChat\Chat_App\ApiChat\ChatDataAccessLayer\obj\Debug\ChatDataAccessLayer.dll
+C:\Users\YAR\Desktop\Dynmics_Chat_2024-11-13\Dynmics_Ch\Dynmics_AppChat\Chat_App\ApiChat\ChatDataAccessLayer\obj\Debug\ChatDataAccessLayer.pdb
+C:\Users\YAR\Desktop\Dynmics_Chat_2024-11-16\Dynmics_Ch\Dynmics_AppChat\Chat_App\ApiChat\ChatDataAccessLayer\bin\Debug\ChatDataAccessLayer.dll
+C:\Users\YAR\Desktop\Dynmics_Chat_2024-11-16\Dynmics_Ch\Dynmics_AppChat\Chat_App\ApiChat\ChatDataAccessLayer\bin\Debug\ChatDataAccessLayer.pdb
+C:\Users\YAR\Desktop\Dynmics_Chat_2024-11-16\Dynmics_Ch\Dynmics_AppChat\Chat_App\ApiChat\ChatDataAccessLayer\bin\Debug\System.Data.SqlClient.dll
+C:\Users\YAR\Desktop\Dynmics_Chat_2024-11-16\Dynmics_Ch\Dynmics_AppChat\Chat_App\ApiChat\ChatDataAccessLayer\bin\Debug\System.Data.SqlClient.xml
+C:\Users\YAR\Desktop\Dynmics_Chat_2024-11-16\Dynmics_Ch\Dynmics_AppChat\Chat_App\ApiChat\ChatDataAccessLayer\obj\Debug\ChatDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\YAR\Desktop\Dynmics_Chat_2024-11-16\Dynmics_Ch\Dynmics_AppChat\Chat_App\ApiChat\ChatDataAccessLayer\obj\Debug\ChatDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\YAR\Desktop\Dynmics_Chat_2024-11-16\Dynmics_Ch\Dynmics_AppChat\Chat_App\ApiChat\ChatDataAccessLayer\obj\Debug\ChatData.A6774211.Up2Date
+C:\Users\YAR\Desktop\Dynmics_Chat_2024-11-16\Dynmics_Ch\Dynmics_AppChat\Chat_App\ApiChat\ChatDataAccessLayer\obj\Debug\ChatDataAccessLayer.dll
+C:\Users\YAR\Desktop\Dynmics_Chat_2024-11-16\Dynmics_Ch\Dynmics_AppChat\Chat_App\ApiChat\ChatDataAccessLayer\obj\Debug\ChatDataAccessLayer.pdb
+C:\Users\YAR\Desktop\Dynmics_Chat_2024-11-16 - Copy\Dynmics_Ch\Dynmics_AppChat\Chat_App\ApiChat\ChatDataAccessLayer\bin\Debug\ChatDataAccessLayer.dll
+C:\Users\YAR\Desktop\Dynmics_Chat_2024-11-16 - Copy\Dynmics_Ch\Dynmics_AppChat\Chat_App\ApiChat\ChatDataAccessLayer\bin\Debug\ChatDataAccessLayer.pdb
+C:\Users\YAR\Desktop\Dynmics_Chat_2024-11-16 - Copy\Dynmics_Ch\Dynmics_AppChat\Chat_App\ApiChat\ChatDataAccessLayer\bin\Debug\System.Data.SqlClient.dll
+C:\Users\YAR\Desktop\Dynmics_Chat_2024-11-16 - Copy\Dynmics_Ch\Dynmics_AppChat\Chat_App\ApiChat\ChatDataAccessLayer\bin\Debug\System.Data.SqlClient.xml
+C:\Users\YAR\Desktop\Dynmics_Chat_2024-11-16 - Copy\Dynmics_Ch\Dynmics_AppChat\Chat_App\ApiChat\ChatDataAccessLayer\obj\Debug\ChatDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\YAR\Desktop\Dynmics_Chat_2024-11-16 - Copy\Dynmics_Ch\Dynmics_AppChat\Chat_App\ApiChat\ChatDataAccessLayer\obj\Debug\ChatDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\YAR\Desktop\Dynmics_Chat_2024-11-16 - Copy\Dynmics_Ch\Dynmics_AppChat\Chat_App\ApiChat\ChatDataAccessLayer\obj\Debug\ChatData.A6774211.Up2Date
+C:\Users\YAR\Desktop\Dynmics_Chat_2024-11-16 - Copy\Dynmics_Ch\Dynmics_AppChat\Chat_App\ApiChat\ChatDataAccessLayer\obj\Debug\ChatDataAccessLayer.dll
+C:\Users\YAR\Desktop\Dynmics_Chat_2024-11-16 - Copy\Dynmics_Ch\Dynmics_AppChat\Chat_App\ApiChat\ChatDataAccessLayer\obj\Debug\ChatDataAccessLayer.pdb
+C:\Users\YAR\Desktop\Dynmics_Chat_2024-11-22\Dynmics_Ch\Dynmics_AppChat\Chat_App\ApiChat\ChatDataAccessLayer\bin\Debug\ChatDataAccessLayer.dll
+C:\Users\YAR\Desktop\Dynmics_Chat_2024-11-22\Dynmics_Ch\Dynmics_AppChat\Chat_App\ApiChat\ChatDataAccessLayer\bin\Debug\ChatDataAccessLayer.pdb
+C:\Users\YAR\Desktop\Dynmics_Chat_2024-11-22\Dynmics_Ch\Dynmics_AppChat\Chat_App\ApiChat\ChatDataAccessLayer\bin\Debug\System.Data.SqlClient.dll
+C:\Users\YAR\Desktop\Dynmics_Chat_2024-11-22\Dynmics_Ch\Dynmics_AppChat\Chat_App\ApiChat\ChatDataAccessLayer\bin\Debug\System.Data.SqlClient.xml
+C:\Users\YAR\Desktop\Dynmics_Chat_2024-11-22\Dynmics_Ch\Dynmics_AppChat\Chat_App\ApiChat\ChatDataAccessLayer\obj\Debug\ChatDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\YAR\Desktop\Dynmics_Chat_2024-11-22\Dynmics_Ch\Dynmics_AppChat\Chat_App\ApiChat\ChatDataAccessLayer\obj\Debug\ChatDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\YAR\Desktop\Dynmics_Chat_2024-11-22\Dynmics_Ch\Dynmics_AppChat\Chat_App\ApiChat\ChatDataAccessLayer\obj\Debug\ChatData.A6774211.Up2Date
+C:\Users\YAR\Desktop\Dynmics_Chat_2024-11-22\Dynmics_Ch\Dynmics_AppChat\Chat_App\ApiChat\ChatDataAccessLayer\obj\Debug\ChatDataAccessLayer.dll
+C:\Users\YAR\Desktop\Dynmics_Chat_2024-11-22\Dynmics_Ch\Dynmics_AppChat\Chat_App\ApiChat\ChatDataAccessLayer\obj\Debug\ChatDataAccessLayer.pdb

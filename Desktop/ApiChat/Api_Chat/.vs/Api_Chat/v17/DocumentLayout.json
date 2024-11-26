@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\YAR\\Desktop\\Dynmics_Chat_2024-11-22\\Dynmics_Ch\\Dynmics_AppChat\\Chat_App\\ApiChat\\Api_Chat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FDC2301-ECBB-484A-9C47-3261F7BAD035}|Api_Chat.csproj|c:\\users\\yar\\desktop\\dynmics_chat_2024-11-22\\dynmics_ch\\dynmics_appchat\\chat_app\\apichat\\api_chat\\api_chat.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{4FDC2301-ECBB-484A-9C47-3261F7BAD035}|Api_Chat.csproj|solutionrelative:api_chat.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FDC2301-ECBB-484A-9C47-3261F7BAD035}|Api_Chat.csproj|c:\\users\\yar\\desktop\\dynmics_chat_2024-11-22\\dynmics_ch\\dynmics_appchat\\chat_app\\apichat\\api_chat\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FDC2301-ECBB-484A-9C47-3261F7BAD035}|Api_Chat.csproj|solutionrelative:controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Api_Chat",
+              "DocumentMoniker": "C:\\Users\\YAR\\Desktop\\Dynmics_Chat_2024-11-22\\Dynmics_Ch\\Dynmics_AppChat\\Chat_App\\ApiChat\\Api_Chat\\Api_Chat.csproj",
+              "RelativeDocumentMoniker": "Api_Chat.csproj",
+              "ToolTip": "C:\\Users\\YAR\\Desktop\\Dynmics_Chat_2024-11-22\\Dynmics_Ch\\Dynmics_AppChat\\Chat_App\\ApiChat\\Api_Chat\\Api_Chat.csproj",
+              "RelativeToolTip": "Api_Chat.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-26T07:05:48.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "C:\\Users\\YAR\\Desktop\\Dynmics_Chat_2024-11-22\\Dynmics_Ch\\Dynmics_AppChat\\Chat_App\\ApiChat\\Api_Chat\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ChatController.cs",
+              "ToolTip": "C:\\Users\\YAR\\Desktop\\Dynmics_Chat_2024-11-22\\Dynmics_Ch\\Dynmics_AppChat\\Chat_App\\ApiChat\\Api_Chat\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "Controllers\\ChatController.cs",
+              "ViewState": "AQIAAKUAAAAAAAAAAAAwwMEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T04:48:38.386Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

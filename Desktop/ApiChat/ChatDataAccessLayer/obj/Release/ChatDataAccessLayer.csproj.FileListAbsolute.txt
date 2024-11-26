@@ -1,0 +1,9 @@
+C:\Users\YAR\Desktop\Dynmics_Chat_2024-11-4\Dynmics_AppChat\Chat_App\ApiChat\ChatDataAccessLayer\bin\Release\ChatDataAccessLayer.dll
+C:\Users\YAR\Desktop\Dynmics_Chat_2024-11-4\Dynmics_AppChat\Chat_App\ApiChat\ChatDataAccessLayer\bin\Release\ChatDataAccessLayer.pdb
+C:\Users\YAR\Desktop\Dynmics_Chat_2024-11-4\Dynmics_AppChat\Chat_App\ApiChat\ChatDataAccessLayer\bin\Release\System.Data.SqlClient.dll
+C:\Users\YAR\Desktop\Dynmics_Chat_2024-11-4\Dynmics_AppChat\Chat_App\ApiChat\ChatDataAccessLayer\bin\Release\System.Data.SqlClient.xml
+C:\Users\YAR\Desktop\Dynmics_Chat_2024-11-4\Dynmics_AppChat\Chat_App\ApiChat\ChatDataAccessLayer\obj\Release\ChatDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\YAR\Desktop\Dynmics_Chat_2024-11-4\Dynmics_AppChat\Chat_App\ApiChat\ChatDataAccessLayer\obj\Release\ChatDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\YAR\Desktop\Dynmics_Chat_2024-11-4\Dynmics_AppChat\Chat_App\ApiChat\ChatDataAccessLayer\obj\Release\ChatData.A6774211.Up2Date
+C:\Users\YAR\Desktop\Dynmics_Chat_2024-11-4\Dynmics_AppChat\Chat_App\ApiChat\ChatDataAccessLayer\obj\Release\ChatDataAccessLayer.dll
+C:\Users\YAR\Desktop\Dynmics_Chat_2024-11-4\Dynmics_AppChat\Chat_App\ApiChat\ChatDataAccessLayer\obj\Release\ChatDataAccessLayer.pdb
